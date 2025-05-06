@@ -1,0 +1,59 @@
+
+Q1
+1)error nested function
+2)error
+3)error
+4)
+  Starting main()
+  In funcA()
+  In funcB()
+  In funcB()
+  Ending main()
+
+5)  
+  Starting main()
+  In funcA()
+  In funcB()
+  Ending main()
+
+6)  
+ error
+
+
+
+Q3
+1)error
+2)random number
+3)error
+4)z
+5)10
+
+
+Q4
+1) 16
+2)no output
+3) error
+4)7,9
+5)7,9
+
+
+Q6
+1)15 13
+2) 15 13
+3)15 13.4
+4)main = 1 , 2
+  func = 1 , 4
+  func = 3 , 4
+  main = 1 , 2
+
+5)
+error
+
+
+
+
+
+
+
+
+
